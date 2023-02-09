@@ -5,5 +5,12 @@
 
 **Eu estou interessado em aprender a programar novas linguagens.**
 
-![texto] <a href="mailto:email@email.com.br" target="_blank"><img src="Link da imagem" target="_blank"/></a>
+Link:
 
+[clique aqui](https://classroom.google.com/u/0/c/NTMyOTU3NDkwMzMw)
+
+Imagem
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+link e imagem
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](francielle.pastori@gmail.com)
